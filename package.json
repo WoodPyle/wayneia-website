@@ -1,0 +1,13 @@
+{
+  "name": "wayneia-website",
+  "version": "1.0.0",
+  "description": "Wayne IA - 168x Faster Enterprise Development",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site ready'",
+    "vercel-build": "echo 'No build needed for static site'"
+  },
+  "keywords": ["wayne-ia", "healthcare", "staffing", "ai-development"],
+  "author": "Wayne IA",
+  "license": "MIT"
+}
